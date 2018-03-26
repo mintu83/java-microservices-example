@@ -1,4 +1,4 @@
-package com.microservice.consumer;
+package com.microservices.consumer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
