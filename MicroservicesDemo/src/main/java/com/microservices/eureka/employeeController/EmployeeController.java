@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.microservice.eureka.employeeService.EmpOperationService;
-import com.microservice.eureka.empoyee.Employee;
+import com.microservices.eureka.employeeService.EmpOperationService;
+import com.microservices.eureka.empoyee.Employee;
 /**
  * 
  * @author Mintu
@@ -19,7 +19,7 @@ import com.microservice.eureka.empoyee.Employee;
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
-@ComponentScan(basePackages={"com.microservice.eureka.employeeService","com.microservice.eureka.employeeController"})
+@ComponentScan(basePackages={"com.microservices.eureka.employeeService","com.microservices.eureka.employeeController"})
 public class EmployeeController {
 
 	protected EmpOperationService empOperationService ;

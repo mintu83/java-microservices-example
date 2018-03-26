@@ -1,10 +1,10 @@
-package com.microservice.eureka.employeeService;
+package com.microservices.eureka.employeeService;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.microservice.eureka.empoyee.Employee;
+import com.microservices.eureka.empoyee.Employee;
 /**
  * 
  * @author Mintu

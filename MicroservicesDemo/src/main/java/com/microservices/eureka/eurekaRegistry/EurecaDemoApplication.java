@@ -1,4 +1,4 @@
-package com.microservice.eureka.eurekaRegistry;
+package com.microservices.eureka.eurekaRegistry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

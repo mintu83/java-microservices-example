@@ -7,9 +7,9 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
-import com.microservice.eureka.employeeService.EmpOperationService;
-import com.microservice.eureka.employeeService.EmpOperationServiceImpl;
-import com.microservice.eureka.empoyee.Employee;
+import com.microservices.eureka.employeeService.EmpOperationService;
+import com.microservices.eureka.employeeService.EmpOperationServiceImpl;
+import com.microservices.eureka.empoyee.Employee;
 /**
  * 
  * @author Mintu

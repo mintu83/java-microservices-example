@@ -1,4 +1,4 @@
-package com.microservice.eureka.empoyee;
+package com.microservices.eureka.empoyee;
 
 import java.io.Serializable;
 import java.util.ArrayList;
